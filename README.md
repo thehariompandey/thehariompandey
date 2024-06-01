@@ -6,6 +6,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+# student 
+hariom pandey
+
+# teacher 
+shardha khapra
+
 <!---
 thehariompandey/thehariompandey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
